@@ -1,12 +1,10 @@
-Hello,
+------------------------------------------------------------------------------------------
+In this week will learn some things those are 
 
-
-In this week will learn some things which are 
-
-*Before starting leanring about Browsers and IDE's 
+*Before get started learn about Browsers and IDE's is most imp 
 
 Browsers:
-Browsers are some sort of software which used to allow people to search something on computer, and get back some sort of information with using HTML and CSS and JS files.
+Browser is some sort of software which used to allow people to search something on computer, and get back with some sort of information with using HTML and CSS and JS files from server.
 
 IDE's:(Integrated development environment)
 IDE's are code playground, simply where people write or manupulate code. 
@@ -72,5 +70,5 @@ justify-content:space-between;
 align-items:center;
 
 
-These are the basic stuff in order get start off the web development mostly frontend stuff... :)
-----------------------------------------
+These are basic stuff in order to get start off the web development mostly specifly frontend... :)
+---------------------------------------------------------------------------------------------------
