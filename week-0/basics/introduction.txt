@@ -1,0 +1,76 @@
+Hello,
+
+
+In this week will learn some things which are 
+
+*Before starting leanring about Browsers and IDE's 
+
+Browsers:
+Browsers are some sort of software which used to allow people to search something on computer, and get back some sort of information with using HTML and CSS and JS files.
+
+IDE's:(Integrated development environment)
+IDE's are code playground, simply where people write or manupulate code. 
+
+start off web development mostly frontend development which includes 
+* HTML 
+* CSS 
+
+
+HTML => Hypertext Markup Langauge 
+
+Which mainly used to create the structure of the webpage.
+
+Mostly with 
+@tags 
+@attributes 
+
+Tags: We have to structure the HTML elements using tags in HTML 
+
+Some most tags used: 
+<html>
+<head>
+<body>
+<h1> <h6>
+<p>
+<img/>
+<a>
+<input>
+<button>
+<br/>
+<b> or <i>
+
+
+Attributes: we have to indicate specific element in HTML doc, then we use attributes 
+
+Top attributes are:
+class 
+id 
+
+CSS: (Cascading style sheets)
+Which is mainly used to style the web pages 
+
+Two main cases:
+*used to style 
+*used for positioning
+
+Main Concepts:
+@selectors 
+@rulesets 
+
+
+Selectors: Which  is used to select specific elements 
+class(.)
+id(#)
+type()
+
+At the end "flexbox" is mainly used to align the elements in a specific manner 
+
+Most used flexbox things 
+display:flex;
+flex-direction:row(default) or column;
+justify-content:space-between;  
+align-items:center;
+
+
+These are the basic stuff in order get start off the web development mostly frontend stuff... :)
+----------------------------------------
