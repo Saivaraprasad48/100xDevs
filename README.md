@@ -1,4 +1,4 @@
-# 100xdevs Cohort 2.0 @hkirat
+# 📈100xdevs Cohort 2.0 @hkirat👨‍💻
 
-### This is 100xDevs repo which includes several tech stuff that I learning daily from my favoriate mentor harkirat singh who is remote developer :)
+### 🚩This is a 100xDevs repo which includes several tech stuff that I learn daily from my favorite mentor harkirat singh who is a remote developer :)
 
