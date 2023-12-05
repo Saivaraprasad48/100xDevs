@@ -1,0 +1,68 @@
+------------------------------------------------------------------------------------------
+In this week will learn some things those are 
+
+JS foundations:
+
+Why Langauge?
+Langauge is used to talk to computer in order to perform a specific task,
+
+More overall we have RAM and HDD or SSD in our computer in order to store and run any process on computer, 
+Now this RAM doesn't understand high level language so we have to use compilers to convert high level to low level code which is because computers only understands 0's and 1's.
+
+Interpreted vs compiled:
+Compiled langauges first compiles the entire program then gives the ouput whereas interpreted langauge partial runs output line by line.
+
+C++ for static nature which is for more strict code,
+JS for dynamic nature which is can move fast in order to strict with js we shift to Typescript :)
+
+
+Intro of JS:
+Js is a single threaded ineterpreted langauge, which is used to create a web and complex progressive applications.
+
+Simple primitives:
+1)Variable (let, var, const)
+A variable is a container which holds some data. 
+let a = 10; // a is a variable
+
+2)Data types(string, number, boolean)
+We use different data types in our applications to create specific functionalities of our requirements.
+string "string"
+number 234 
+boolean true, false
+
+3)Conditions 
+Conditions are used to execute the code based on specific condition.
+we use if/else if/else for conditions in js.
+
+
+4)Loops 
+Loops are used to execute a specific block of code in several times.
+we use for/while loops in js.
+
+
+
+complex primitives:
+1)Arrays 
+Array is a data type which is used to store values in dynamic allocation manner in JS.
+let arr = ["sai",23, false]
+
+Object
+Object is kind of data type which is used to store multiple data values.
+let obj = {name: "raj",
+           age: 20,
+           gender:"male"
+}
+
+Functions:
+Function is a specific block of code which is used to run several times
+
+Callback: A fucn call another func...
+Recursion: A func call itself...
+
+
+SetTimeout: It is inbuilt fucntion inorder to execute a code in a certain intervals.
+SetInterval: It is inbuilt fucntion inorder to execute a code in a specific interval.
+ClearTimout: It is inbuilt fucntion inorder to clear the setInterval.
+
+These are basic stuff in order to get start off with the js ... :)
+---------------------------------------------------------------------------------------------------
