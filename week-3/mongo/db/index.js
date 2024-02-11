@@ -1,8 +1,7 @@
 const mongoose = require("mongoose");
 
 mongoose
-  .connect(
-    "mongodb+srv://sai_vara_db:Dsvp%404904@cluster0.vf8la7o.mongodb.net/course_selling_app2",
+  .connect("Mongo_URL",
     {
       useNewUrlParser: true,
     }
