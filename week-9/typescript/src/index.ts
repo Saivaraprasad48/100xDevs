@@ -1,4 +1,3 @@
-
 // initialize the variables with type 
 const num: number = 18;
 console.log(num);
@@ -66,18 +65,18 @@ isLegal2({
 })
 
 //  Create a React component that takes todos as an input and renders them
+import React from 'react';
 
 type TodoType = {
   title: string;
   description: string;
-  done: boolean;
 }
 
 interface TodoInput {
   todo: TodoType;
 }
 
-function Todo({ todo }: TodoInput) {
+function Todo({ todo }: TodoInput): JSX.Element  {
   return (
     <>
       <h1>{todo.title}</h1>
